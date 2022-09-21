@@ -24,8 +24,12 @@ font-size: 1.6rem;
 }
 
 .container{
+/*
+Tudo em 100% da dimensão
 width: 100vw;
 height: 100vh;
+*/
+
 background-color: var(--body-bg-color);
 color: var(--text-color);
 }
@@ -44,7 +48,7 @@ flex-direction: column;
     height: 29.2rem;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     flex-direction: column;
     background-color: var(--bg-cards);
     border-radius: 1.25rem;
@@ -52,15 +56,14 @@ flex-direction: column;
     border-bottom: rgba(0,0,0,0.4) 3px solid;
     margin-top: 1rem;
     margin-bottom: 1rem;
-    padding-top: 1.3rem;
-    padding-bottom: 3rem;
 }
 
 .profile img{
     width: 12.8rem;
     border-radius: 50%;
     border: var(--bg-techs) 2px solid;
-    margin-bottom: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
 }
 
 .profile h2{
