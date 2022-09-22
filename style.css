@@ -130,21 +130,32 @@ flex-direction: column;
     border-right: rgba(0,0,0,0.4) 3px solid;
     border-bottom: rgba(0,0,0,0.4) 3px solid;
     margin-bottom: 1rem;
-    padding: 1.3rem 0rem;
 }
 
-.tecnologias h2{
-    font-size: 1.5rem;
+.tecnologias .titulo-tecnologias{
+    display: flex;
+    align-self: flex-start;
+    padding-left: 3rem;
+}
+
+.tecnologias .titulo-tecnologias h2{
+    font-size: 1.9rem;
     font-size: 700; 
-    padding-bottom: 1rem;
 }
 
-.linha-tecnologias{
+.tecnologias .linhas-tecnologias{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.tecnologias .linhas-tecnologias .linha-tecnologias{
     display: flex;
     flex-direction: row;
 }   
 
-.linha-tecnologias div{
+.tecnologias .linhas-tecnologias .linha-tecnologias div{
     display: flex;
     align-items: center;
     justify-content: center;
