@@ -62,26 +62,26 @@ flex-direction: column;
     margin-top: 1rem;
 }
 
-.profile .foto img{
+.foto img{
     width: 12.8rem;
     border-radius: 50%;
     border: var(--bg-techs) 2px solid;
 }
 
-.profile .nome-cargo{
+.nome-cargo{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
 }
 
-.profile .nome-cargo h2{
+.nome-cargo h2{
     font-weight: 700;
     font-size: 2.3rem;
     margin-bottom: 1rem;
 }
 
-.profile .nome-cargo span{
+.nome-cargo span{
     font-size: 1.30rem;
 }
 
@@ -97,18 +97,18 @@ flex-direction: column;
     padding: 1.3rem 0rem;
 }
 
-.links .link{
+.link{
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.links .link img{
+.link img{
     padding-right: 1.7rem;
     padding-left: 2.7rem;
 }
 
-.links .link a, span{
+.link a, span{
     text-decoration: none;
     color: var(--text-color);
     font-size: 1.3rem;
@@ -126,30 +126,30 @@ flex-direction: column;
     flex-direction: column;
 }
 
-.tecnologias .titulo-tecnologias{
+.titulo-tecnologias{
     display: flex;
     align-self: flex-start;
     padding-left: 3rem;
 }
 
-.tecnologias .titulo-tecnologias h2{
+.titulo-tecnologias h2{
     font-size: 2rem;
     font-size: 700; 
 }
 
-.tecnologias .linhas-tecnologias{
+.linhas-tecnologias{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
 }
 
-.tecnologias .linhas-tecnologias .linha-tecnologias{
+.linha-tecnologias{
     display: flex;
     flex-direction: row;
 }   
 
-.tecnologias .linhas-tecnologias .linha-tecnologias div{
+.linha-tecnologias div{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -176,37 +176,38 @@ flex-direction: column;
     flex-direction: column;
 }
 
-.card .titulo-card{
+.titulo-card{
     display: flex;
     align-self: flex-start;
     padding-left: 3rem;
 }
 
-.card .titulo-card h2{
+.titulo-card h2{
     font-size: 2rem;
     font-weight: 700; 
     padding-top: 2.7rem;
 }
-.card .lista-card{
+
+.lista-card{
     padding: 2rem;
 }
 
-.card .lista-card .card-elemento li{
+.card-elemento li{
     font-size: 1.4rem;
     font-weight: 700; 
 }
 
-.card .lista-card .card-elemento span{
+.card-elemento span{
     font-size: 1.2rem;
     font-weight: 300;
 }
 
-.card .lista-card .card-elemento p{
+.card-elemento p{
     font-size: 1.2rem;
     font-weight: 400;
 }
 
-.card .lista-card .card-elemento{
+.card-elemento{
     display: flex;
     align-items: flex-start;
     justify-content: center;
