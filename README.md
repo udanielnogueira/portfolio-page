@@ -24,8 +24,10 @@
 <a href="https://udanielnogueira.github.io/portfolio-page/" target="_blank">Portfolio Page</a>
 
 <br><br><br>
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
 <!-- 
 Images
