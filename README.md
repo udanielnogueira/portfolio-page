@@ -24,6 +24,10 @@
 
 <a href="https://udanielnogueira.github.io/portfolio-page/" target="_blank">Portfolio Page</a>
 
+### Layout no Figma
+
+<a href="https://www.figma.com/file/L6fCiWtOgXCfslQdezqQeF/DD-Portfolio/duplicate">Layout do Portfolio Page</a>
+
 <!-- 
 Images
 ![Image](image.png "Image")
