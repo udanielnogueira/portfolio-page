@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/udanielnogueira/portfolio-page/blob/main/img/pp-logo.png" alt="Profile Page logo" height="200">
+<img src="https://github.com/udanielnogueira/portfolio-page/blob/main/img/portfolio-page-logo.png" alt="Profile Page logo" height="200">
 <h1>Portfolio Page</h1>
 <img href="https://img.shields.io/github/languages/count/udanielnogueira/portfolio-page">
 <img href="https://img.shields.io/github/languages/top/udanielnogueira/portfolio-page">
