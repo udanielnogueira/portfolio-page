@@ -1,5 +1,6 @@
 <div align="center">
 <h1>Portfolio Page</h1>
+<p>Uma página de uma coluna usada para exibir portfolio e currículo.</p>
 </div>
 
 ## Tecnologias
