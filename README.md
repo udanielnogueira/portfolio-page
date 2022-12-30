@@ -23,6 +23,8 @@
 
 <a href="https://udanielnogueira.github.io/portfolio-page/" target="_blank">Portfolio Page</a>
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 <!-- 
 Images
 ![Image](image.png "Image")
@@ -40,6 +42,7 @@ https://www.iloveimg.com/compress-image/compress-gif
 Badges
 https://shields.io/
 https://simpleicons.org/
+https://forthebadge.com/
 https://github.com/alexandresanlim/Badges4-README.md-Profile
  -->
 
