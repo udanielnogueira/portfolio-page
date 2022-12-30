@@ -11,7 +11,7 @@
 
 ## Preview
 
-<img src="portfolio-page-preview.gif" alt="Portfolio Page Preview" height="700">
+<img src="portfolio-page-preview.gif" alt="Portfolio Page Preview" width="700">
 
 ![Preview do projeto](portfolio-page-preview.gif "Portfolio Page Preview")
 
