@@ -3,6 +3,8 @@
 <h1>Portfolio Page</h1>
 <img src="https://img.shields.io/github/languages/count/udanielnogueira/portfolio-page">
 <img src="https://img.shields.io/github/languages/top/udanielnogueira/portfolio-page">
+<img src="https://img.shields.io/github/languages/code-size/udanielnogueira/portfolio-page">
+<img src="https://img.shields.io/github/license/udanielnogueira/portfolio-page">
 <h4>Uma página de uma coluna usada para exibir portfolio e currículo.</h4>
 </div>
 
