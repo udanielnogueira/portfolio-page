@@ -24,10 +24,6 @@
 
 <a href="https://udanielnogueira.github.io/portfolio-page/" target="_blank">Portfolio Page</a>
 
-<br><br>
-
-
-
 <!-- 
 Images
 ![Image](image.png "Image")
