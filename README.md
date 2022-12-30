@@ -16,7 +16,7 @@
 ## Link
 
 <div>
-<a href="https://udanielnogueira.github.io/portfolio-page/" target="blank">Profile Page</a>
+<a href="https://udanielnogueira.github.io/portfolio-page/" target="_blank">Profile Page</a>
 </div>
 
 
