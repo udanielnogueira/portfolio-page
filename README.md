@@ -15,7 +15,8 @@
 
 ## Acesso
 
-https://udanielnogueira.github.io/portfolio-page/
+<a href="https://udanielnogueira.github.io/portfolio-page/" target="_blank">
+
 
 <!-- 
 Images
