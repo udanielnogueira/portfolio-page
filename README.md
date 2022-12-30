@@ -1,6 +1,10 @@
 <div align="center">
 <img src="pp-logo.png" alt="Profile Page logo" height="200">
 <h1>Portfolio Page</h1>
+<img href="https://img.shields.io/github/languages/count/udanielnogueira/portfolio-page">
+<img href="https://img.shields.io/github/languages/top/udanielnogueira/portfolio-page">
+<img href="">
+<img href="">
 <h4>Uma página de uma coluna usada para exibir portfolio e currículo.</h4>
 </div>
 
@@ -39,3 +43,8 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
   MP4 to GIF
   https://cloudconvert.com/mp4-to-gif
    -->
+
+<!-- Refs
+https://github.com/matiassingers/awesome-readme
+https://github.com/amitmerchant1990/electron-markdownify
+ -->
