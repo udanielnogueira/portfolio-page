@@ -1,6 +1,6 @@
-# Portfolio Page
-
-Uma página de uma coluna usada para exibir portfolio e currículo.
+<div align="center">
+<h1>Portfolio Page</h1>
+</div>
 
 ## Tecnologias
 
