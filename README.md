@@ -11,6 +11,8 @@
 
 ## Preview
 
+<img src="portfolio-page-preview.gif" alt="Portfolio Page Preview" height="500">
+
 ![Preview do projeto](portfolio-page-preview.gif "Portfolio Page Preview")
 
 ## Link
@@ -34,3 +36,8 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
  https://temp-mail.org/en/
  https://www.shopify.com/br/ferramentas/criador-de-logo
   -->
+
+  <!-- 
+  MP4 to GIF
+  https://cloudconvert.com/mp4-to-gif
+   -->
