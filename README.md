@@ -13,7 +13,7 @@
 
 ![Preview do projeto](portfolio-page-preview.gif "Portfolio Page Preview")
 
-## Acesso
+## Link
 
 <a href="https://udanielnogueira.github.io/portfolio-page/" target="_blank">Profile Page</a>
 
