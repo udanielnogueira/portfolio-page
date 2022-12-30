@@ -56,7 +56,9 @@ https://temp-mail.org/en/
 https://www.shopify.com/br/ferramentas/criador-de-logo
 -->
 
-<!-- Refs
+<!-- 
+Refs
+https://github.com/othneildrew/Best-README-Template
 https://github.com/matiassingers/awesome-readme
 https://github.com/amitmerchant1990/electron-markdownify
  -->
