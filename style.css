@@ -42,7 +42,6 @@ body{
     margin: 4rem 4rem;
 }
 
-
 .profile, .links, .tecnologias, .experiencias, .educacao{
     background-color: var(--bg-cards);
     /* original 2rem */
