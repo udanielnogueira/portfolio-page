@@ -5,6 +5,8 @@
 <img src="https://img.shields.io/github/languages/top/udanielnogueira/portfolio-page">
 <img src="https://img.shields.io/github/languages/code-size/udanielnogueira/portfolio-page">
 <img src="https://img.shields.io/github/license/udanielnogueira/portfolio-page">
+<img src="https://img.shields.io/github/last-commit/udanielnogueira/portfolio-page">
+<img src="https://img.shields.io/github/deployments/udanielnogueira/portfolio-page/github-pages">
 <h4>Uma página de uma coluna usada para exibir portfolio e currículo.</h4>
 </div>
 
