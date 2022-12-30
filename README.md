@@ -1,4 +1,5 @@
 <div align="center">
+<img src="profile-page-logo" alt="Profile Page logo">
 <h1>Portfolio Page</h1>
 <h4>Uma página de uma coluna usada para exibir portfolio e currículo.</h4>
 </div>
