@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/udanielnogueira/portfolio-page/blob/main/assets/portfolio-page-logo.png" alt="Profile Page logo" height="200">
 <h3>Portfolio Page</h3>
-<p>Uma página de uma coluna usada para exibir portfolio e currículo.</p>
+<p>Página mobile first para exibir redes sociais e currículo.</p>
 <img src="https://img.shields.io/github/languages/count/udanielnogueira/portfolio-page">
 <img src="https://img.shields.io/github/languages/top/udanielnogueira/portfolio-page">
 <img src="https://img.shields.io/github/languages/code-size/udanielnogueira/portfolio-page">
