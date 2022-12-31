@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/udanielnogueira/portfolio-page/blob/main/img/portfolio-page-logo.png" alt="Profile Page logo" height="200">
+<img src="https://github.com/udanielnogueira/portfolio-page/blob/main/assets/portfolio-page-logo.png" alt="Profile Page logo" height="200">
 <h3>Portfolio Page</h3>
 <p>Uma página de uma coluna usada para exibir portfolio e currículo.</p>
 <img src="https://img.shields.io/github/languages/count/udanielnogueira/portfolio-page">
@@ -12,7 +12,7 @@
 
 ## Preview
 
-![Preview do projeto](img/portfolio-page-preview.gif "Portfolio Page Preview")
+![Preview do projeto](assets/portfolio-page-preview.gif "Portfolio Page Preview")
 
 ## Tecnologias
 
