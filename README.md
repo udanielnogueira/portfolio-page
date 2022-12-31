@@ -10,17 +10,17 @@
 <img src="https://img.shields.io/github/deployments/udanielnogueira/portfolio-page/github-pages">
 </div>
 
-## 🖥 Preview
+## Preview
 
 ![Preview do projeto](img/portfolio-page-preview.gif "Portfolio Page Preview")
 
-## ⚙ Tecnologias
+## Tecnologias
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS3")
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "Figma")
+- HTML5
+- CSS3
+- Figma
 
-## 📎 Link de acesso
+## Link de acesso
 
 <a href="https://udanielnogueira.github.io/portfolio-page/" target="_blank">Portfolio Page</a>
 
