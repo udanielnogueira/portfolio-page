@@ -5,8 +5,10 @@
 <img src="https://img.shields.io/github/languages/count/udanielnogueira/portfolio-page">
 <img src="https://img.shields.io/github/languages/top/udanielnogueira/portfolio-page">
 <img src="https://img.shields.io/github/languages/code-size/udanielnogueira/portfolio-page">
+<br>
 <img src="https://img.shields.io/github/last-commit/udanielnogueira/portfolio-page">
 <img src="https://img.shields.io/github/deployments/udanielnogueira/portfolio-page/github-pages">
+<br>
 <img src="https://img.shields.io/github/license/udanielnogueira/portfolio-page">
 <img src="https://img.shields.io/badge/responsive-yes-ff69b4">
 </div>
